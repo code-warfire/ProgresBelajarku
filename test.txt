@@ -1,2 +1,3 @@
-test hellow world
-test for conflict merge
+
+test
+ini merge yang salah
